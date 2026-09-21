@@ -1,5 +1,5 @@
 const USERS = {
-  admin: '9999',
+  admin: '123',
   user1: 'p@ss#w0rd!'
 };
 const LOCKED_USERS = ['locked_user'];
